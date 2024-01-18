@@ -1,0 +1,164 @@
+body {
+  margin: 0;
+}
+
+header {
+  width: 1600px;
+  height: 500px;
+  background-color: #a72800;
+}
+
+h1 {
+  font-family: Roboto;
+  font-size: 120px;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #ffffff;
+  margin: 0;
+  padding-top: 30px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 80px;
+  /*margin-left: 198px;*/
+}
+
+.general_info {
+  color: #ffffff;
+}
+
+.pseudonym {
+  width: 320px;
+  height: 107px;
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 200;
+  letter-spacing: 0.02em;
+  text-align: left;
+  margin: 0;
+}
+
+.city {
+  width: 310px;
+  height: 115px;
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 700;
+  margin: 0;
+}
+
+.b-day {
+  font-size: 56px;
+  font-weight: 800;
+  text-align: center;
+  width: 30%;
+}
+
+.marilyn img {
+  width: 476px;
+  height: 476px;
+  border-radius: 50%;
+  margin-top: -65px;
+}
+
+.logo {
+  width: 30%;
+}
+
+.foxminded {
+  margin-left: 85px;
+}
+
+.fox {
+  margin-top: 23px;
+}
+
+.main {
+  margin-left: 85px;
+  margin-top: 200px;
+  width: 1282px;
+}
+
+.gray_bg {
+  background-color: #d9d9d9;
+}
+
+.font_m_300 {
+  font-family: Roboto Mono;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 65px;
+  letter-spacing: 0.02em;
+  text-align: center;
+  height: 67px;
+}
+
+.font_300 {
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 300;
+  line-height: 35px;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+
+.facts {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 70px;
+}
+
+.movies {
+  width: 289px;
+}
+
+.box_1 {
+  width: 242px;
+  margin-left: 24px;
+}
+
+.quotes {
+  width: 438px;
+}
+
+.box_2 {
+  width: 360px;
+  margin-left: 24px;
+}
+
+.quiq_facts {
+  width: 289px;
+}
+
+.box_3 {
+  width: 242px;
+  margin-left: 24px;
+}
+
+.facts h3 {
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 35px;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+
+.facts li {
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 35px;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+
+footer {
+  width: 1600px;
+  height: 16px;
+  background-color: #a72800;
+  margin-top: 65px;
+}
